@@ -1,4 +1,4 @@
-<h1 allign="center"> Projeto desenvolvido com o objetivo de promover uma ordem dos meus links e facilitar a comunicação, seja com propostas, elogios, conexões. Etc </h1>
+<h3 allign="center"> Projeto desenvolvido com o objetivo de promover uma ordem dos meus links e facilitar a comunicação, seja com propostas, elogios, conexões. Etc </h3>
 <br>
 
 ## Tecnologias
